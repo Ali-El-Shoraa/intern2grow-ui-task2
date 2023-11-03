@@ -1,4 +1,4 @@
-﻿# intern2grow ui task1
+﻿# intern2grow ui task2
 
 This is a solution to the [ui developer challenge on Intern2grow Ui](https://intern2grow.vercel.app/). Intern2grow challenges help you improve your coding skills by building realistic projects.
 
